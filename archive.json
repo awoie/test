@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-01-09T00:49:11.091052+00:00",
+  "timestamp": "2024-01-11T00:49:27.670879+00:00",
   "repo": "awoie/test",
   "labels": [
     {
@@ -50,5 +50,32 @@
     }
   ],
   "issues": [],
-  "pulls": []
+  "pulls": [
+    {
+      "number": 1,
+      "id": "PR_kwDOJbVheM5jtmDA",
+      "title": "feat: initial",
+      "url": "https://github.com/awoie/test/pull/1",
+      "state": "OPEN",
+      "author": "awoie",
+      "authorAssociation": "OWNER",
+      "assignees": [],
+      "labels": [],
+      "body": "",
+      "createdAt": "2024-01-10T17:54:59Z",
+      "updatedAt": "2024-01-10T17:54:59Z",
+      "baseRepository": "awoie/test",
+      "baseRefName": "main",
+      "baseRefOid": "ba61d39a2dba522704ffda4a306eb905d5d1cf86",
+      "headRepository": "awoie/test",
+      "headRefName": "awoie/test",
+      "headRefOid": "78ae633f5f78ebae1230001139122a463c2ce060",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
+      "reviews": []
+    }
+  ]
 }
